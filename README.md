@@ -1,5 +1,4 @@
 # Introduction: StockTracker 
-```
 
 As a user, when I log into StockTracker, I want to see a snapshot of the stocks I'm monitoring, because it will give me an idea of my financial health.
 
@@ -54,39 +53,14 @@ Install the following node packages:
 
 ```
 npm i axios
-```
-
-```
 npm i bcrypt
-```
-
-```
 npm i chart.js
-```
-
-```
 npm i dotenv
-```
-
-```
 npm i express express-session
-```
-
-```
 npm i moment
-```
-
-```
 npm i mysql2
-```
-
-```
 npm passport passport-local
-```
-
-```
 npm i sequelize sequelize-cli
-```
 ```
 Create a database in MySQL. In this example, `stock_market_db` is used (refer to config.json).
 
